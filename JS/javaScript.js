@@ -1,7 +1,3 @@
-
-
-
-
 function transportaionPrice(n, period) {
     /*
      * Validating the inputs' types
